@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="~/css/login.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-5">
+                <h1>Đăng nhập</h1>
+                <div class="gach"></div>
+            </div>
+            <div class="col-lg-5 form">
+                <p>@Html.Raw(ViewBag.error)</p>
+                <form asp-controller="Login" asp-action="Login" method="post">
+                    <input type="hidden" name="urlRedirect" value="@ViewBag.urlRedirect" />
+                    <div class="form-group">
+                        <input type="email" name="email" class="form-control" placeholder="Email"
+                               aria-describedby="helpId">
+                    </div>
+                    <div class="form-group">
+                        <input type="password" name="password" class="form-control" placeholder="Mật khẩu"
+                               aria-describedby="helpId">
+                    </div>
+                    <button type="submit" class="log">Đăng nhập</button>
+                </form>
+                <div class="reg-pass">
+                    <a href="">Quên mật khẩu? </a>
+                    <span> hoặc</span>
+                    <a asp-controller="Home" asp-action="Register"> Đăng ký</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

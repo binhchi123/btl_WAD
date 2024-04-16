@@ -1,0 +1,140 @@
+﻿.title {
+    text-align: center;
+    margin: 3rem 0;
+}
+
+.title h2 {
+    text-transform: uppercase;
+}
+
+.new {
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.mesh {
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.menu-item {
+    text-align: center;
+}
+
+.menu-item ul li {
+    display: inline-block;
+    padding: 15px;
+}
+
+.menu-item ul li a {
+    color: black;
+    text-transform: uppercase;
+    font-size: larger;
+}
+
+.more {
+    margin: 3rem auto;
+    display: block;
+    padding: 10px 30px;
+    background-color: black;
+}
+
+.more a {
+    color: white;
+    text-decoration: none;
+}
+
+.w3-card-4 {
+    margin: 25px 0;
+}
+
+.banner-pd {
+    margin: 3rem 0;
+}
+
+.text {
+    background-color: whitesmoke;
+    padding: 10px;
+    opacity: 0.7;
+}
+
+.text a {
+   text-decoration: none;
+   text-transform: uppercase;
+   color: black;
+   font-weight: bold;
+}
+
+.text p {
+    font-size: larger;
+}
+
+.des {
+    text-align: center;
+    padding: 10px;
+}
+
+.des a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+}
+
+.card-img {
+    width: 100%;
+}
+
+.slider {
+    margin: 0 40px;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+.slider .image-items {
+    height: 100%;
+}
+
+.slider .image-items .image {
+    height: 100%;
+}
+
+.slider .image-items .image img {
+    height: 100%;
+    display: block;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 15px;
+}
+
+.arrowButton {
+    position: absolute !important;
+    top: 50% !important;
+    color: black !important;
+    width: 50px !important;
+    height: 50px !important;
+    border-radius: 50% !important;
+    background-color: white !important;
+    padding: 10px !important;
+}
+
+.arrowButton.left {
+    left: 0 !important;
+}
+
+.arrowButton.right {
+    right: 0 !important;
+}
+
+.arrowButton::after {
+    font-size: 20px !important;
+}
+
+@media only screen and (max-width:868px) {
+    .slider {
+        margin: 0 20px;
+    }
+}

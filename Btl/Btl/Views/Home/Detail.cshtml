@@ -1,0 +1,56 @@
+﻿
+@{
+    ViewData["Title"] = "Detail";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="~/css/detail.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div class="container">
+        <div class="head">
+            <ul>
+                <li><a asp-controller="Home" asp-action="Index">Trang chủ</a> <span>/ @Model.Name</span></li>
+            </ul>
+        </div>
+        <div class="row">
+            <div class="col-lg-5 left">
+                <div class="img">
+                    <img src="@Model.Image" alt="" class="card-img">
+                </div>
+            </div>
+            <div class="col-lg-7">
+                <h2>@Model.Name</h2>
+                <span class="sale-price">@Model.SalePrice</span>
+                <span class="price">@Model.Price</span>
+                @*<div class="inp">
+                        <button class="btn-fake left" id="tru">-</button>
+                        <input type="text" name="" id="kq" value="1">
+                        <button class="btn-fake right" id="cong">+</button>
+                    </div>*@
+                <br>
+                <button type="submit" class="add-cart">
+                    <div class="addCart">
+                        <a asp-action="AddToCart" asp-controller="Cart" asp-route-id="@Model.ProductId">
+                            Thêm giỏ hàng
+                        </a>
+                    </div>
+                </button>
+                <button type="submit" class="buy">Mua ngay</button>
+                <h4>Mô tả</h4>
+                <div class="size-chart">
+                    <img src="~/images/size-chart.jpg" alt="">
+                </div>
+                <p class="descrip">- @Model.Description</p>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
+

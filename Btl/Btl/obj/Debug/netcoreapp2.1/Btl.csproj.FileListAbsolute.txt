@@ -1,0 +1,204 @@
+D:\ASP .NET Core\Btl\Btl\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\ASP .NET Core\Btl\Btl\bin\Debug\netcoreapp2.1\appsettings.json
+D:\ASP .NET Core\Btl\Btl\bin\Debug\netcoreapp2.1\Btl.deps.json
+D:\ASP .NET Core\Btl\Btl\bin\Debug\netcoreapp2.1\Btl.runtimeconfig.json
+D:\ASP .NET Core\Btl\Btl\bin\Debug\netcoreapp2.1\Btl.runtimeconfig.dev.json
+D:\ASP .NET Core\Btl\Btl\bin\Debug\netcoreapp2.1\Btl.dll
+D:\ASP .NET Core\Btl\Btl\bin\Debug\netcoreapp2.1\Btl.pdb
+D:\ASP .NET Core\Btl\Btl\bin\Debug\netcoreapp2.1\Btl.Views.dll
+D:\ASP .NET Core\Btl\Btl\bin\Debug\netcoreapp2.1\Btl.Views.pdb
+D:\ASP .NET Core\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.csproj.AssemblyReference.cache
+D:\ASP .NET Core\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP .NET Core\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.AssemblyInfoInputs.cache
+D:\ASP .NET Core\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.AssemblyInfo.cs
+D:\ASP .NET Core\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.csproj.CoreCompileInputs.cache
+D:\ASP .NET Core\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.RazorAssemblyInfo.cache
+D:\ASP .NET Core\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.RazorAssemblyInfo.cs
+D:\ASP .NET Core\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.TagHelpers.input.cache
+D:\ASP .NET Core\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.TagHelpers.output.cache
+D:\ASP .NET Core\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.RazorCoreGenerate.cache
+D:\ASP .NET Core\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\ASP .NET Core\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\ASP .NET Core\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\ASP .NET Core\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\ASP .NET Core\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ASP .NET Core\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\ASP .NET Core\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ASP .NET Core\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ASP .NET Core\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ASP .NET Core\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ASP .NET Core\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.RazorTargetAssemblyInfo.cache
+D:\ASP .NET Core\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.RazorTargetAssemblyInfo.cs
+D:\ASP .NET Core\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.Views.pdb
+D:\ASP .NET Core\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.dll
+D:\ASP .NET Core\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.pdb
+D:\ASP .NET Core\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.genruntimeconfig.cache
+D:\ASP .NET Core\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.csproj.CopyComplete
+D:\ASP .NET Core\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_LayoutAdmin.cshtml.g.cs
+D:\ASP .NET Core\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\ASP .NET Core\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+D:\ASP .NET Core\Btl_codefirst\Btl\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\ASP .NET Core\Btl_codefirst\Btl\bin\Debug\netcoreapp2.1\appsettings.json
+D:\ASP .NET Core\Btl_codefirst\Btl\bin\Debug\netcoreapp2.1\Btl.deps.json
+D:\ASP .NET Core\Btl_codefirst\Btl\bin\Debug\netcoreapp2.1\Btl.runtimeconfig.json
+D:\ASP .NET Core\Btl_codefirst\Btl\bin\Debug\netcoreapp2.1\Btl.runtimeconfig.dev.json
+D:\ASP .NET Core\Btl_codefirst\Btl\bin\Debug\netcoreapp2.1\Btl.dll
+D:\ASP .NET Core\Btl_codefirst\Btl\bin\Debug\netcoreapp2.1\Btl.pdb
+D:\ASP .NET Core\Btl_codefirst\Btl\bin\Debug\netcoreapp2.1\Btl.Views.dll
+D:\ASP .NET Core\Btl_codefirst\Btl\bin\Debug\netcoreapp2.1\Btl.Views.pdb
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Btl.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Btl.AssemblyInfoInputs.cache
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Btl.AssemblyInfo.cs
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Btl.csproj.CoreCompileInputs.cache
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Btl.RazorAssemblyInfo.cache
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Btl.RazorAssemblyInfo.cs
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Btl.TagHelpers.input.cache
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Btl.TagHelpers.output.cache
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Btl.RazorCoreGenerate.cache
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_LayoutAdmin.cshtml.g.cs
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Btl.RazorTargetAssemblyInfo.cache
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Btl.RazorTargetAssemblyInfo.cs
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Btl.Views.pdb
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Btl.dll
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Btl.pdb
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Btl.genruntimeconfig.cache
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Btl.csproj.CopyComplete
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Categories\Create.cshtml.g.cs
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Categories\Details.cshtml.g.cs
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Categories\Edit.cshtml.g.cs
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Categories\Index.cshtml.g.cs
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Details.cshtml.g.cs
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Edit.cshtml.g.cs
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Categories\Delete.cshtml.g.cs
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Delete.cshtml.g.cs
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Logging\Login.cshtml.g.cs
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Btl.csproj.AssemblyReference.cache
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Home\Detail.cshtml.g.cs
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Home\Register.cshtml.g.cs
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Index.cshtml.g.cs
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Login\Login.cshtml.g.cs
+D:\ASP .NET Core\Btl_codefirst\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Home\Filter.cshtml.g.cs
+D:\WDA\Btl\Btl\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\WDA\Btl\Btl\bin\Debug\netcoreapp2.1\appsettings.json
+D:\WDA\Btl\Btl\bin\Debug\netcoreapp2.1\Btl.deps.json
+D:\WDA\Btl\Btl\bin\Debug\netcoreapp2.1\Btl.runtimeconfig.json
+D:\WDA\Btl\Btl\bin\Debug\netcoreapp2.1\Btl.runtimeconfig.dev.json
+D:\WDA\Btl\Btl\bin\Debug\netcoreapp2.1\Btl.dll
+D:\WDA\Btl\Btl\bin\Debug\netcoreapp2.1\Btl.pdb
+D:\WDA\Btl\Btl\bin\Debug\netcoreapp2.1\Btl.Views.dll
+D:\WDA\Btl\Btl\bin\Debug\netcoreapp2.1\Btl.Views.pdb
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.csproj.AssemblyReference.cache
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.GeneratedMSBuildEditorConfig.editorconfig
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.AssemblyInfoInputs.cache
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.AssemblyInfo.cs
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.csproj.CoreCompileInputs.cache
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.RazorAssemblyInfo.cache
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.RazorAssemblyInfo.cs
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.TagHelpers.input.cache
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.TagHelpers.output.cache
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.RazorCoreGenerate.cache
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Categories\Create.cshtml.g.cs
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Categories\Delete.cshtml.g.cs
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Categories\Details.cshtml.g.cs
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Categories\Edit.cshtml.g.cs
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Categories\Index.cshtml.g.cs
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Logging\Login.cshtml.g.cs
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Delete.cshtml.g.cs
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Details.cshtml.g.cs
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Edit.cshtml.g.cs
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_LayoutAdmin.cshtml.g.cs
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Index.cshtml.g.cs
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Home\Detail.cshtml.g.cs
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Home\Filter.cshtml.g.cs
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Home\Register.cshtml.g.cs
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Login\Login.cshtml.g.cs
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.RazorTargetAssemblyInfo.cache
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.RazorTargetAssemblyInfo.cs
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.Views.pdb
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.dll
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.pdb
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.genruntimeconfig.cache
+D:\WDA\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.csproj.CopyComplete
+D:\WAD\Btl\Btl\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\WAD\Btl\Btl\bin\Debug\netcoreapp2.1\appsettings.json
+D:\WAD\Btl\Btl\bin\Debug\netcoreapp2.1\Btl.deps.json
+D:\WAD\Btl\Btl\bin\Debug\netcoreapp2.1\Btl.runtimeconfig.json
+D:\WAD\Btl\Btl\bin\Debug\netcoreapp2.1\Btl.runtimeconfig.dev.json
+D:\WAD\Btl\Btl\bin\Debug\netcoreapp2.1\Btl.dll
+D:\WAD\Btl\Btl\bin\Debug\netcoreapp2.1\Btl.pdb
+D:\WAD\Btl\Btl\bin\Debug\netcoreapp2.1\Btl.Views.dll
+D:\WAD\Btl\Btl\bin\Debug\netcoreapp2.1\Btl.Views.pdb
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.csproj.AssemblyReference.cache
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.GeneratedMSBuildEditorConfig.editorconfig
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.AssemblyInfoInputs.cache
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.AssemblyInfo.cs
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.csproj.CoreCompileInputs.cache
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.RazorAssemblyInfo.cache
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.RazorAssemblyInfo.cs
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.TagHelpers.input.cache
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.TagHelpers.output.cache
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.RazorCoreGenerate.cache
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Categories\Create.cshtml.g.cs
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Categories\Delete.cshtml.g.cs
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Categories\Details.cshtml.g.cs
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Categories\Edit.cshtml.g.cs
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Categories\Index.cshtml.g.cs
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Logging\Login.cshtml.g.cs
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Delete.cshtml.g.cs
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Details.cshtml.g.cs
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Edit.cshtml.g.cs
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_LayoutAdmin.cshtml.g.cs
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Index.cshtml.g.cs
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Home\Detail.cshtml.g.cs
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Home\Filter.cshtml.g.cs
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Home\Register.cshtml.g.cs
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Login\Login.cshtml.g.cs
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.RazorTargetAssemblyInfo.cache
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.RazorTargetAssemblyInfo.cs
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.Views.pdb
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.dll
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.pdb
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.genruntimeconfig.cache
+D:\WAD\Btl\Btl\obj\Debug\netcoreapp2.1\Btl.csproj.CopyComplete

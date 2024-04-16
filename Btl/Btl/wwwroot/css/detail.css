@@ -1,0 +1,82 @@
+﻿.head {
+    margin-top:20px;
+}
+
+.head ul li {
+    list-style: none;
+}
+
+.head ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+.left {
+    margin: 1.5rem 0;
+}
+
+.btn-fake {
+    border: none;
+    padding: 6px 0;
+    width: 40px;
+    border: 1px solid grey;
+}
+
+.inp {
+    margin: 3rem 0;
+}
+
+.inp input {
+    padding: 6px 0;
+    border: 1px solid black;
+    width: 50px;
+    text-align: center;
+}
+
+.inp .left {
+    margin-right: -4px;
+}
+
+.inp .right {
+    margin-left: -4px;
+}
+
+.sale-price {
+    color: red;
+    margin-right: 20px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.price {
+    text-decoration: line-through;
+    color: gray;
+}
+
+.add-cart {
+    background-color: black;
+    padding: 10px;
+    width: 220px;
+    margin-right: 15px;
+    margin: 3rem 0;
+}
+
+.addCart a {
+    color: white !important;
+    text-decoration: none !important;
+
+}
+
+.buy {
+    border: 2px solid black;
+    background-color: white;
+    color: black;
+    padding: 10px;
+    width: 220px;
+    cursor: pointer;
+}
+
+.descrip {
+    margin: 3rem 0;
+    font-size: larger;
+}

@@ -1,0 +1,86 @@
+﻿@using Btl.Areas.Admin.Models.DataModels
+@model IEnumerable<Cart>
+@{
+    ViewData["Title"] = "Cart";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="~/css/cart.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div class="container">
+        <div class="head">
+            <ul>
+                <li><a asp-controller="Home" asp-action="Index">Trang chủ</a> <span>/ Giỏ hàng</span></li>
+            </ul>
+        </div>
+        <div class="row">
+            <div class="col-lg-9">
+                <h4>Giỏ hàng của bạn</h4>
+                <hr>
+                <table class="items">
+                    <thead>
+                        <tr>
+                            <th>Tên sản phẩm</th>
+                            <th>Ảnh sản phẩm</th>
+                            <th>Số lượng</th>
+                            <th>Giá</th>
+                            <th>Tổng cộng</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.ProductName</td>
+                                <td>
+                                    <img src="@item.Image" width="80px" />
+                                </td>
+                                <td>
+                                    <form asp-action="Update" asp-controller="Cart" method="get">
+                                        <input type="hidden" name="id" value="@item.ProductId" />
+                                        <input type="number" name="quantity" value="@item.Quantity" style"width:40px;text-align:center;" min="1" />
+                                        <button>Update</button>
+                                    </form>
+                                </td>
+                                <td>@item.Price.ToString("N0") đ</td>
+                                <td>@item.TotalAmount.ToString("N0") đ</td>
+                                <td>
+                                    <a class="del" asp-controller="Cart" asp-action="RemoveItem" asp-route-id="@item.ProductId">Xóa</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+                <a asp-controller="Cart" asp-action="Clear" class="clear">Xóa hết</a>
+            </div>
+            <div class="col-lg-3">
+                <div class="cart">
+                    <h3>Thông tin đơn hàng</h3>
+                    <hr>
+                    <div class="tong">
+                        <span class="mon">Tổng tiền:</span>
+                        <span class="money">@ViewBag.Total.ToString("N0") đ</span>
+                    </div>
+                    <hr>
+                    <h5>Ghi chú đơn hàng</h5>
+                    <form action="">
+                        <div class="form-group">
+                            <textarea class="form-control" name="" id="" rows="3" placeholder="Ghi chú"></textarea>
+                        </div>
+                        <button type="submit" class="form-control pay my-4">THANH TOÁN NGAY</button>
+                    </form>
+                    <p class="return"><a asp-controller="Home" asp-action="Index"><i class="fa-solid fa-left-long"></i>Tiếp tục mua hàng</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

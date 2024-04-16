@@ -1,0 +1,112 @@
+-- tao database
+create database bama
+go
+use bama
+go
+--tao table
+create table Category
+(
+	CategoryId int primary key identity not null,
+	Name nvarchar(100) not null,
+	Status bit default 1,
+	CreatedDate datetime default getDate(),
+	UpdatedDate datetime default getDate()
+)
+go
+create table Product
+(
+	ProductId int primary key identity not null,
+	Name nvarchar(100) not null,
+	Image varchar(200),
+	Price float not null,
+	SalePrice float default 0,
+	Description nvarchar(max),
+	CategoryId int,
+	CreatedDate datetime default getDate(),
+	UpdatedDate datetime default getDate(),
+	foreign key (CategoryId) references Category(CategoryId)
+)
+go
+create table Users
+(
+	UserId int primary key identity not null,
+	Username nvarchar(100) not null,
+	Password nvarchar(100) not null,
+	Email nvarchar(100) not null,
+	FullName nvarchar(100) not null
+)
+go
+create table Orders
+(
+	OrderId int primary key identity not null,
+	UserId int,
+	Address nvarchar(100),
+	Phone varchar(11),
+	OrderDate datetime default getDate(),
+	TotalAmount float not null,
+	foreign key (UserId) references Users(UserId)
+)
+go
+create table OrderDetail
+(
+	OrderDetailId int primary key identity not null,
+	OrderId int,
+	ProductId int,
+	Quantity int not null,
+	UnitPrice float not null,
+	foreign key (OrderId) references Orders(OrderId),
+	foreign key (ProductId) references Product(ProductId),
+)
+go
+-- them dl
+insert into Category(Name,Status) values
+	(N'Backpacks',1),
+	(N'Bags',1),
+	(N'Cross bags',1),
+	(N'Accessories',1)
+go
+insert into Product(Name,Image,Price,SalePrice,Description,CategoryId) values
+	(N'Mesh Fabric Backpack MF101','/images/products/pd1.jpg',590000,0,N'Chất liệu: Vải Polyester 1010D cao cấp chống thấm nước cao. Quai đeo và lưng lót đệm êm, thoát mồ hôi không gây nóng lưng cho người đeo.',1),
+	(N'Mesh Fabric Backpack MF102','/images/products/pd2.jpg',550000,0,N'Chất liệu: Vải Polyester 1010D cao cấp chống thấm nước cao. Quai đeo và lưng lót đệm êm, thoát mồ hôi không gây nóng lưng cho người đeo.',1),
+	(N'Mesh Fabric Backpack MF104','/images/products/pd3.jpg',470000,0,N'Chất liệu: Vải Polyester 1010D cao cấp chống thấm nước cao. Quai đeo và lưng lót đệm êm, thoát mồ hôi không gây nóng lưng cho người đeo.',1),
+	(N'Mesh Fabric Bumbag MF902','/images/products/pd4.jpg',370000,0,N'Chất liệu: Vải Polyester 1010D cao cấp chống thấm nước cao. Ngăn chống sốc bên trong đựng vừa tất cả các dòng điện thoại.',2),
+	(N'Mesh Fabric Shoulder Bag MF201','/images/products/pd5.jpg',270000,0,N'Chất liệu: Vải Polyester 1010D cao cấp chống thấm nước cao. Ngăn chống sốc bên trong đựng vừa tất cả các dòng điện thoại.',2),
+	(N'Mesh Fabric Shoulder Bag MF202','/images/products/pd6.jpg',299000,0,N'Chất liệu: Vải Polyester 1010D cao cấp chống thấm nước cao. Ngăn chống sốc bên trong đựng vừa tất cả các dòng điện thoại.',2),
+	(N'New Basic Backpack NB102','/images/products/pd7.jpg',460000,0,N'Chất liệu: Vải Polyester 1010D cao cấp chống thấm nước cao. Quai đeo và lưng lót đệm êm, thoát mồ hôi không gây nóng lưng cho người đeo.',1),
+	(N'New Basic Backpack NB104','/images/products/pd8.jpg',390000,0,N'Chất liệu: Vải Polyester 1010D cao cấp chống thấm nước cao. Quai đeo và lưng lót đệm êm, thoát mồ hôi không gây nóng lưng cho người đeo.',1),
+	(N'Mesh Fabric Cross Bag MF301','/images/products/pd9.jpg',440000,0,N'Chất liệu: Vải Polyester 1010D cao cấp chống thấm nước cao. Quai đeo và lưng lót đệm êm, thoát mồ hôi không gây nóng lưng cho người đeo.',3),
+	(N'Mesh Fabric Duffle Bag MF501','/images/products/pd10.jpg',390000,350000,N'Chất liệu: Vải Polyester 1010D cao cấp chống thấm nước cao. Đầu kéo BAMA độc quyền giúp kéo dễ hơn và treo móc dễ dàng hơn.',2),
+	(N'New Basic Duffle Bag NB502','/images/products/pd11.jpg',370000,320000,N'Chất liệu: Vải Polyester 1010D cao cấp chống thấm nước cao. Đầu kéo BAMA độc quyền giúp kéo dễ hơn và treo móc dễ dàng hơn.',2),
+	(N'New Basic Totes NB802-S','/images/products/pd12.jpg',490000,470000,N'Chất liệu: Vải Polyester 1010D cao cấp chống thấm nước cao. Ngăn chống sốc: Đựng vừa laptop 14 inch ( ngăn chính đựng vừa laptop 15.6 inch nhưng không gài nút bấm được )',2),
+	(N'BAMA Wallet W606','/images/products/pd13.jpg',240000,210000,N'Chất liệu: Da bò Saffiano chống xước, chống nước cao. Tính năng: Chống thấm, mềm mại, dễ vệ sinh, độ bền, độ chịu nhiệt cao.',6),
+	(N'BAMA Wallet W604','/images/products/pd14.jpg',290000,260000,N'Chất liệu: Da bò Saffiano chống xước, chống nước cao. Tính năng: Chống thấm, mềm mại, dễ vệ sinh, độ bền, độ chịu nhiệt cao.',6),
+	(N'BAMA Wallet W605','/images/products/pd15.jpg',320000,300000,N'Chất liệu: Da bò Saffiano chống xước, chống nước cao. Tính năng: Chống thấm, mềm mại, dễ vệ sinh, độ bền, độ chịu nhiệt cao.',6),
+	(N'New Basic Totes NB801','/images/products/pd16.jpg',550000,530000,N'Chất liệu: Vải Polyester 1010D cao cấp chống thấm nước cao. Ngăn chống sốc: Đựng vừa laptop 14 inch ( ngăn chính đựng vừa laptop 15.6 inch nhưng không gài nút bấm được )',2),
+	(N'New Basic Totes NB802-M','/images/products/pd17.jpg',550000,530000,N'Chất liệu: Vải Polyester 1010D cao cấp chống thấm nước cao. Ngăn chống sốc: Đựng vừa laptop 14 inch ( ngăn chính đựng vừa laptop 15.6 inch nhưng không gài nút bấm được )',2)
+go
+insert into Users(Username,Password,Email,FullName) values
+	(N'Michael',N'12345678',N'michael@gmail.com',N'Michael Wu'),
+	(N'Racher',N'123456',N'racher@gmail.com',N'Racher Kim'),
+	(N'Jin',N'123456789',N'jin@gmail.com',N'Jin Park')
+go
+//
+insert into Users values
+	('michael',LOWER(CONVERT(varchar(32),HASHBYTES('md5','12345678'),2)),'michael@gmail.com','Michael Wu'),
+	('admin',LOWER(CONVERT(varchar(32),HASHBYTES('md5','123456'),2)),'admin@gmail.com','Admin')
+go
+//
+insert into Orders(UserId,Address,Phone,TotalAmount) values
+	(1,N'Shang Hai','0987654321',550000),
+	(2,N'Seoul','0987654322',590000),
+	(3,N'Busan','0987654323',460000)
+go
+insert into OrderDetail(OrderId,ProductId,Quantity,UnitPrice) values
+	(1,2,2,1110000),
+	(2,1,3,1770000),
+	(3,7,5,2300000)
+go
+insert into Color values
+	(N'Đen',N'#000000'),
+	(N'Xanh nước biển',N'#2E8B57'),
+	(N'Xám',N'#808080')
+go

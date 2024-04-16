@@ -1,0 +1,58 @@
+﻿body {
+}
+.head {
+    margin-top: 20px;
+}
+
+.head ul li {
+    list-style: none;
+}
+
+.head ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+.left {
+    margin: 1.5rem 0;
+}
+
+.menu-doc {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.danh-muc {
+    color: black;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.menu ul li {
+    padding: 10px 0;
+    border: none;
+}
+
+.menu ul li a {
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+.sale-price {
+    color: red;
+    margin-right: 20px;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.price {
+    text-decoration: line-through;
+    color: gray;
+}
+
+.product {
+    padding: 10px 0;
+}

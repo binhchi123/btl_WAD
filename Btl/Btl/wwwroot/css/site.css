@@ -1,0 +1,170 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification\ 
+for details on configuring this project to bundle and minify static web assets. */
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Carousel */
+.carousel-caption p {
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+/* Make .svg files in the carousel display properly in older browsers */
+.carousel-inner .item img[src$=".svg"] {
+    width: 100%;
+}
+
+/* QR code generator */
+/*#qrCode {
+    margin: 15px;
+}*/
+
+/* Hide/rearrange for smaller screens */
+@media screen and (max-width: 767px) {
+    /* Hide captions */
+    .carousel-caption {
+        display: none;
+    }
+}
+/* footer */
+.footer h2 {
+    color: white;
+    text-transform: uppercase;
+}
+
+.list {
+    display:flex;
+    width: 20%;
+}
+
+.list img {
+    padding: 5px;
+}
+
+.card-img {
+    width: 100%;
+}
+
+.ques ul {
+    list-style: none;
+    padding: 0;
+}
+
+.ques ul li {
+    margin-bottom: 5px;
+}
+
+.ques ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+}
+
+.contact ul {
+    list-style: none;
+    padding: 0;
+}
+
+.contact ul li {
+    margin-bottom: 5px;
+}
+
+.contact ul li a {
+   text-decoration: none;
+   color: black;
+   font-size: larger;
+}
+
+.img-fp {
+    position: relative;
+}
+
+.ft img {
+    position: absolute;
+    top: 8%;
+    left: 4%;
+    border: 2px solid white;
+}
+
+.ft a {
+    position: absolute;
+    text-decoration: none;
+    color: white;
+    top: 10%;
+    left: 28%;
+}
+
+.ft span {
+    position: absolute;
+    color: white;
+    text-decoration: none;
+    top: 25%;
+    left: 28%;
+}
+
+.fbsq {
+    color: #4267B3;
+    background: white;
+    margin-right: 0.5rem;
+}
+
+.like {
+    position: absolute;
+    background-color: white;
+    width: 50%;
+    border-radius: 2px;
+    bottom: 10%;
+    left: 4%;
+    padding: 3px;
+}
+
+.like a {
+    text-decoration: none;
+    color: black;
+}
+
+.like span {
+    color: black;
+    text-decoration: none;
+}
+
+.she {
+    color: grey;
+    background: white;
+    margin-right: 0.5rem;
+}
+
+.share {
+    position: absolute;
+    background-color: white;
+    width: 28%;
+    border-radius: 2px;
+    bottom: 10%;
+    right: 10%;
+    padding: 3px;
+}
+
+.share a {
+    text-decoration: none;
+    color: black;
+}
+
+.share span {
+    color: black;
+    text-decoration: none;
+}
+
+.last-footer {
+    text-align: center;
+    padding: 5px;
+}
+/* end footer*/

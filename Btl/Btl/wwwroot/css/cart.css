@@ -1,0 +1,79 @@
+﻿body {
+}
+.head {
+    margin-top: 20px;
+}
+
+.head ul li {
+    list-style: none;
+}
+
+.head ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+td th{
+    padding: 5px 10px;
+}
+
+h4 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.del {
+    color: black;
+    text-decoration: none;
+}
+
+.item-title a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.money {
+    font-weight: 500;
+    margin-right: 3rem;
+}
+
+.price {
+    text-decoration: line-through;
+    color: gray;
+    font-weight: 500;
+}
+
+.tong {
+    display: flex;
+    justify-content: space-between;
+}
+
+.mon {
+    font-weight: bold;
+}
+
+.pay {
+    padding: 7px;
+    border: none;
+    color: white;
+    background-color: black;
+    margin: 1.5rem 0; 
+}
+
+.clear {
+    color: dodgerblue;
+}
+
+    .clear:hover {
+        color: dodgerblue;
+    }
+
+.return {
+    text-align: center;
+}
+
+.return a {
+    text-decoration: none;
+    color: black;
+}
